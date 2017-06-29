@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GitApp/bin/Debug
+/.vs/GitTest/v14
+/GitApp/obj/Debug
+/GitDll/obj/Debug
+/ipch/WINDLL-e4ec5546
+/GitTest.VC.VC.opendb
+/GitTest.VC.db
